@@ -31,6 +31,6 @@ jobs:yêu
 
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
-        run: | chọn đi
+        run: | chọn đi https://github.com/Ter2712/ter.github.io/blob/7da7f2e813035b992ab05c2abd992e1603a8f05d/.github/quy%20tr%C3%ACnh%20l%C3%A0m%20vi%E1%BB%87c/blank.yml
           echo Add other actions to build,
           echo test, and deploy your project.
